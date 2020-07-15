@@ -6,10 +6,10 @@
   子 <rp>(</rp><rt>zi</rt><rp>)</rp>
 </ruby>
 , which means <strong>Bamboo</strong> in English.
-
+<br/>
 bambooom = <strong>Bamboo🎍 + boom💥</strong>
-
+<br/>
 ...just an ordinary front-end developer 😉
-
+<br/>
 <s>a bad one</s> try to be a good one 😇
 </samp>
