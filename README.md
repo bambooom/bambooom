@@ -13,3 +13,6 @@ bambooom = <strong>Bamboo🎍 + boom💥</strong>
 <br/>
 <s>a bad one</s> try to be a good one 😇
 </samp>
+
+
+[![interesting rando](https://www.randos.online/u/bambooom)](https://randos.online/u/bambooom/next)
